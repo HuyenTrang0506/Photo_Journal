@@ -59,7 +59,7 @@ A modern, responsive photo gallery app built with Next.js and Capacitor, featuri
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/chouthi/Photo_Journal.git
+https://github.com/HuyenTrang0506/Photo_Journal/tree/main  
 cd Photo_Journal
 
 # Install dependencies
@@ -101,4 +101,5 @@ Visit `http://localhost:3000` to see the app in action.
 
 ```
 ```
+
 
