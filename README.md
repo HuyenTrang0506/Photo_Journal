@@ -2,7 +2,6 @@
 # 📱 Cross-Platform Mobile Application Development (1)
 
 **Student:** Nguyen Huyen Trang – 22IT305  
-**Instructor:** *(to be filled in)*
 
 ---
 
@@ -102,3 +101,4 @@ Visit `http://localhost:3000` to see the app in action.
 
 ```
 ```
+
